@@ -1,4 +1,4 @@
-# tol-bot
+# tol-bot </br>
 Tree of Life bot
 Status: Incomplete
 Check docstrings in main.py
