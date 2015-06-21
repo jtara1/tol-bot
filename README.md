@@ -1,5 +1,5 @@
-# tol-bot </br>
-Tree of Life bot
+# tol-bot
+Tree of Life bot </br>
 Status: Incomplete
 Check docstrings in main.py
 - class Coords holds the coordinates of key areas of the game (buttons and regions)
