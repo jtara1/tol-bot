@@ -1,5 +1,5 @@
 # tol-bot
-Tree of Life bot </br>
+Tree of Life bot (Python 2.7) </br>
 Status: Work in progress, some automation completed, some functions/methods need improvement </br>
 Libraries used: os, time, pywin32, PIL, & tesseract (or pytesser) </br>
 Check docstrings in main.py for more info </br>
