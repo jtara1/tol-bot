@@ -1,4 +1,4 @@
-# tol-bot update 1
+# tol-bot v1.1
 Tree of Life bot (Python 2.7) </br>
 <b>v1.1</b> includes the new farm function which will farm automatically in game (see farm docstring) <br>
 Status: Work in progress, some automation completed, some functions/methods need improvement </br>
